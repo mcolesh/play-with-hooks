@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "David" },
+    { "id": 2, "name": "Tal"},
+    { "id": 3, "name": "Asaf"},
+    { "id": 4, "name": "Ido"}
+  ],
+  "serverstatus": { "status": "OK", "msg" : "all system function currectly"}
+}
