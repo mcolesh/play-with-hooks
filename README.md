@@ -5,7 +5,7 @@
 * https://tylermcginnis.com/why-react-hooks/
 * https://overreacted.io/a-complete-guide-to-useeffect/
 
-## note:it is recomanded to read it by order:
+## Note: it is recomanded to read it by order:
 
 ### In the project directory, you can run:
 
